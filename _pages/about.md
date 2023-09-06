@@ -24,7 +24,7 @@ Competitions
 ***AISC: Physical World Adversarial Face Recognition (2022) (Rank 5/178)***  
 Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou  
 
-***The 14th National Student Information Security Contest: Information Security Works Competition (2021) (Third Prize)***  
+***The 14th National College Student Information Security Projects Competition (2021) (Third Prize)***  
 **Xianlong Wang**, Yiman Hu, Junyu Shi, Ao Yang  
 
 ***The Mathematical Contest in Modeling (2021) (Honorable Mention)***  
