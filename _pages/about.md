@@ -15,7 +15,7 @@ I am currently a second-year master's student in the School of Cyber Science and
 
 Publications
 ------
-PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness
+<font size=5>PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness</font>
 
 Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Leo Yu Zhang, Junhui Hou
 
