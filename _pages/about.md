@@ -15,19 +15,19 @@ I am currently a second-year master's student in the School of Cyber Science and
 
 Publications
 ------
-*PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness*   
+***PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness***   
 Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Leo Yu Zhang, Junhui Hou  
 In Proceedings of the 31st ACM International Conference on Multimedia (**MM 2023**)
 
 Competitions
 ------
-*AISC: Physical World Adversarial Face Recognition (2022) (Rank 5/178)*  
+***AISC: Physical World Adversarial Face Recognition (2022) (Rank 5/178)***  
 Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou  
 
-*The 14th National Student Information Security Contest: Information Security Works Competition (2021) (Third Prize)*  
+***The 14th National Student Information Security Contest: Information Security Works Competition (2021) (Third Prize)***  
 **Xianlong Wang**, Yiman Hu, Junyu Shi, Ao Yang  
 
-*The Mathematical Contest in Modeling (2021) (Honorable Mention)*  
+***The Mathematical Contest in Modeling (2021) (Honorable Mention)***  
 **Xianlong Wang**, Yiman Hu
 
 Awards
