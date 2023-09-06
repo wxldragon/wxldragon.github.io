@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master's student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology. My research focuses on topics such as image adversarial attacks, poisoning attacks, and 3D point cloud adversarial attacks. I completed my undergraduate studies in the field of Information Security at Huazhong University of Science and Technology.
+I am currently a second-year master's student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology, Wuhan, China. My research focuses on adversarial attacks, poisoning attacks, 3D point cloud, and Deepfake detection. I obtained a Bachelor of Engineering degree in Information Security from Huazhong University of Science and Technology in 2022.
 
 
  
 
-For more info
+Publications
 ------
-More info about me can be found in XXX.
+PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness
+Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Leo Yu Zhang, Junhui Hou
+In Proceedings of the 31st ACM International Conference on Multimedia (**MM 2023**)
