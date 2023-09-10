@@ -17,7 +17,7 @@ Publications
 ------
 ***PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness***   
 Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Leo Yu Zhang, Junhui Hou  
-In Proceedings of the 31st ACM International Conference on Multimedia (**MM 2023**)
+In Proceedings of the 31st ACM International Conference on Multimedia **(MM 2023)**
 
 Competitions
 ------
