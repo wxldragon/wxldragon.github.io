@@ -28,21 +28,26 @@ Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou
 **Xianlong Wang**, Yiman Hu, Junyu Shi, Ao Yang  
 
 ***The Mathematical Contest in Modeling (2021) (Honorable Mention)***  
-**Xianlong Wang**, Yiman Hu
+**Xianlong Wang**, Yiman Hu  
+
+***The 34th National High School Physics Competition (2017) (Second Prize)***  
+**Xianlong Wang**  
+
+***Hubei Province High School Mathematics Competition (2017) (Third Prize)***
+**Xianlong Wang**  
+
+***Hubei Region of the National High School Chemistry Olympiad (2017) (Third Prize)***
+**Xianlong Wang**  
 
 Awards
 ------
 ***Master's Graduate Scholarship (2022) (First Prize)***  
-
 ***Outstanding Graduates of Huazhong University of Science and Technology (2022)***  
-
 ***Outstanding Academic Achievement Scholarship (2021)***  
-
 ***Outstanding Student Leader (2021)***  
-
 ***Self-improvement Scholarship (2020)***
-
-***Progress in Studies Scholarship (2019)***
+***Progress in Studies Scholarship (2019)***  
+***Outstanding Student Leader in Wuhan City's Ordinary Primary and Secondary Schools (2017)***  
 
 
 
