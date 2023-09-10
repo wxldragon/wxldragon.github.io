@@ -45,7 +45,7 @@ Awards
 ***Outstanding Graduates of Huazhong University of Science and Technology (2022)***  
 ***Outstanding Academic Achievement Scholarship (2021)***  
 ***Outstanding Student Leader (2021)***  
-***Self-improvement Scholarship (2020)***
+***Self-improvement Scholarship (2020)***  
 ***Progress in Studies Scholarship (2019)***  
 ***Outstanding Student Leader in Wuhan City's Ordinary Primary and Secondary Schools (2017)***  
 
