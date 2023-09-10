@@ -30,7 +30,7 @@ Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou
 ***The Mathematical Contest in Modeling (2021) (Honorable Mention)***  
 **Xianlong Wang**, Yiman Hu  
 
-***Legends of the Three Kingdoms' Battle City Qualifiers 2V2 Event (2021) (Champion)***  
+***Legends of the Three Kingdoms' City Qualifiers 2V2 Event (2021) (Champion)***  
 **Xianlong Wang**, Minjie Zhang  
 
 ***National High School Physics Competition (2017) (Second Prize)***  
