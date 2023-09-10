@@ -30,7 +30,7 @@ Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou
 ***The Mathematical Contest in Modeling (2021) (Honorable Mention)***  
 **Xianlong Wang**, Yiman Hu  
 
-***The 34th National High School Physics Competition (2017) (Second Prize)***  
+***National High School Physics Competition (2017) (Second Prize)***  
 **Xianlong Wang**  
 
 ***Hubei Province High School Mathematics Competition (2017) (Third Prize)***  
