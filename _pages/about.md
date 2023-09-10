@@ -32,3 +32,19 @@ Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou
 
 Awards
 ------
+***Master's Graduate Scholarship (2022) (First Prize)***  
+
+***Outstanding Graduates of Huazhong University of Science and Technology (2022)***  
+
+***Outstanding Academic Achievement Scholarship (2021)***  
+
+***Outstanding Student Leader (2021)***  
+
+***Self-improvement Scholarship (2020)***
+
+***Progress in Studies Scholarship (2019)***
+
+
+
+
+
