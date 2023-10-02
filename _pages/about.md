@@ -39,7 +39,7 @@ Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou
 ***Hubei Province High School Mathematics Competition (2017) (Third Prize)***  
 **Xianlong Wang**  
 
-***Hubei Region of the National High School Chemistry Olympiad (2017) (Third Prize)***  
+***Hubei Province High School Chemistry Competition (2017) (Third Prize)***  
 **Xianlong Wang**  
 
 Awards
