@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master's student in the School of Cyber Science and Engineering at Huazhong University of Science and Technology, Wuhan, China. My research focuses on adversarial attacks, poisoning attacks, 3D point cloud, and Deepfake detection. I obtained a Bachelor of Engineering degree in Information Security from Huazhong University of Science and Technology in 2022.
+I am currently a second-year master's student in the School of Cyber Science and Engineering at **Huazhong University of Science and Technology**, Wuhan, China. My research focuses on adversarial attacks and defenses in deep learning. I obtained a Bachelor of Engineering degree from Huazhong University of Science and Technology in 2022.
 
 
  
