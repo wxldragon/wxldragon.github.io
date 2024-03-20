@@ -15,9 +15,13 @@ I am currently a second-year master's student in the School of Cyber Science and
 
 Publications
 ------
+***PointAPA: Towards Availability Poisoning Attacks in 3D Point Clouds***   
+**<u>Xianlong Wang</u>**, Minghui Li, Peng Xu, Wei Liu, Leo Yu Zhang, Shengshan Hu, Yanjun Zhang   
+In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_   
+
 ***PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness***   
 Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, Xiaogeng Liu, **<u>Xianlong Wang</u>**, Leo Yu Zhang, Junhui Hou  
-In _Proceedings of the 31st ACM International Conference on Multimedia **(MM 2023) <font color="color: lightblue;"> (Oral) </font>**_ 
+In _Proceedings of the 31st ACM International Conference on Multimedia **(MM 2023) <font color="color: lightblue;"> (Oral) </font>**_  
 
 Competitions
 ------
@@ -25,10 +29,10 @@ Competitions
 Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou  
 
 ***National College Student Information Security Projects Competition (2021) (Third Prize)***  
-**Xianlong Wang**, Yiman Hu, Junyu Shi, Ao Yang  
+**Xianlong Wang**, Junyu Shi, Yiman Hu, Ao Yang  
 
 ***The Mathematical Contest in Modeling (2021) (Honorable Mention)***  
-**Xianlong Wang**, Yiman Hu  
+**Xianlong Wang**  
 
 ***Legends of the Three Kingdoms' City Qualifiers 2V2 Event (2021) (Champion)***  
 **Xianlong Wang**, Minjie Zhang  
