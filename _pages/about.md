@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master's student in the School of Cyber Science and Engineering at _Huazhong University of Science and Technology_, Wuhan, China, focusing on the research **of poisoning attack and defense in 2D and 3D computer vision**. I obtained a Bachelor of Engineering degree from Huazhong University of Science and Technology in 2022.
+I am currently a second-year master's student in the School of Cyber Science and Engineering at _Huazhong University of Science and Technology_, Wuhan, China, focusing on the research of **adversarial attacks and defenses in 2D and 3D computer vision**. I obtained a Bachelor of Engineering degree from Huazhong University of Science and Technology in 2022.
 
 
  
