@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master's student in the School of Cyber Science and Engineering at **Huazhong University of Science and Technology, Wuhan, China**, focusing on the research of adversarial attacks in machine learning. I obtained a Bachelor of Engineering degree from Huazhong University of Science and Technology in 2022.
+I am currently a second-year master's student in the School of Cyber Science and Engineering at _Huazhong University of Science and Technology_, Wuhan, China, focusing on the research **of poisoning attack and defense in 2D and 3D computer vision**. I obtained a Bachelor of Engineering degree from Huazhong University of Science and Technology in 2022.
 
 
  
@@ -27,6 +27,13 @@ In _Proceedings of the 29th European Symposium on Research in Computer Security 
 ***PointCRT: Detecting Backdoor in 3D Point Cloud via Corruption Robustness***   
 Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, Xiaogeng Liu, **<u>Xianlong Wang</u>**, Leo Yu Zhang, Junhui Hou  
 In _Proceedings of the 31st ACM International Conference on Multimedia **(MM 2023) <font color="color: lightblue;"> (Oral) </font>**_  
+
+
+Services
+------
+Reviewer for MM2024 
+
+
 
 Competitions
 ------
