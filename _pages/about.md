@@ -44,7 +44,7 @@ Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou
 **Xianlong Wang**, Junyu Shi, Yiman Hu, Ao Yang  
 
 ***The Mathematical Contest in Modeling (2021) (Honorable Mention)***  
-**Xianlong Wang**  
+**Xianlong Wang**, Yiman Hu  
 
 ***Legends of the Three Kingdoms' City Qualifiers 2V2 Event (2021) (Champion)***  
 **Xianlong Wang**, Minjie Zhang  
