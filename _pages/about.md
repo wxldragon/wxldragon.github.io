@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master's student in the School of Cyber Science and Engineering at _Huazhong University of Science and Technology_, Wuhan, China, focusing on the research of **adversarial attacks and defenses in 2D and 3D computer vision**. I obtained a Bachelor of Engineering degree from Huazhong University of Science and Technology in 2022.
+I am currently a second-year master's student in the School of Cyber Science and Engineering at _Huazhong University of Science and Technology_, Wuhan, China, focusing on the research of _adversarial attacks and defenses in 2D and 3D computer vision_. I obtained a Bachelor of Engineering degree from Huazhong University of Science and Technology in 2022.
 
 
  
 
 Publications
 ------
+***ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification***   
+**<u>Xianlong Wang</u>**, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin   
+In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_  
+
+
 ***Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness***   
 Hangtao Zhang, Shengshan Hu, Yichen Wang, Leo Yu Zhang, Ziqi Zhou, **<u>Xianlong Wang</u>**, Yanjun Zhang, Chao Chen   
 In _Proceedings of the 33rd International Joint Conference on Artificial Intelligence **(IJCAI 2024)**_ 
