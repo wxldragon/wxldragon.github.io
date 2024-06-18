@@ -16,8 +16,8 @@ I am currently a second-year master's student in the School of Cyber Science and
 Publications
 ------
 ***ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification***   
-**<u>Xianlong Wang</u>**, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin   
-In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_  
+<small> **<u>Xianlong Wang</u>**, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin   
+In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_  </small>
 
 
 ***Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness***   
@@ -36,7 +36,7 @@ In _Proceedings of the 31st ACM International Conference on Multimedia **(MM 202
 
 Services
 ------
-Reviewer for MM2024 
+Reviewer for MM'24 
 
 
 
@@ -51,17 +51,6 @@ Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou
 ***The Mathematical Contest in Modeling (2021) (Honorable Mention)***  
 **Xianlong Wang**, Yiman Hu  
 
-***Legends of the Three Kingdoms' City Qualifiers 2V2 Event (2021) (Champion)***  
-**Xianlong Wang**, Minjie Zhang  
-
-***National High School Physics Competition (2017) (Second Prize)***  
-**Xianlong Wang**  
-
-***Hubei Province High School Mathematics Competition (2017) (Third Prize)***  
-**Xianlong Wang**  
-
-***Hubei Province High School Chemistry Competition (2017) (Third Prize)***  
-**Xianlong Wang**  
 
 Awards
 ------
@@ -72,8 +61,7 @@ Awards
 ***Outstanding Academic Achievement Scholarship of Huazhong University of Sci. and Tech. (2021)***  
 ***Outstanding Student Leader of Huazhong University of Sci. and Tech. (2021)***  
 ***Self-improvement Scholarship of Huazhong University of Sci. and Tech. (2020)***  
-***Progress in Studies Scholarship of Huazhong University of Sci. and Tech. (2019)***  
-***Outstanding Student Leader in Wuhan City's Ordinary Primary and Secondary Schools (2017)***  
+***Progress in Studies Scholarship of Huazhong University of Sci. and Tech. (2019)***   
 
 
 
