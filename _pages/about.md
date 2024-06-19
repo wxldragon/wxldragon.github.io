@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master's student in the School of Cyber Science and Engineering at _Huazhong University of Science and Technology_, Wuhan, China, focusing on the research of _adversarial attacks and defenses in 2D and 3D computer vision_. I obtained a Bachelor of Engineering degree from Huazhong University of Science and Technology in 2022.
+I am currently a second-year master's student in the _[School of Cyber Science and Engineering](https://cse.hust.edu.cn/)_ at _[Huazhong University of Science and Technology](https://www.hust.edu.cn/)_, Wuhan, China,
+supervised by [Professor Shengshan Hu](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ&hl=zh-CN&oi=ao) from [TAI group](http://trustai.cse.hust.edu.cn/). Previous to that, I obtained a Bachelor of Engineering degree from Huazhong University of Science and Technology in 2022.
+
+My current research interest focuses on **_trustworthy AI, embodied AI, AIGC, and etc._**. I am always open for any research communication and cooperation, please don't hesitate to contact me if you are interested.
+My email address is wxl99 at hust.edu.cn
 
 
  
