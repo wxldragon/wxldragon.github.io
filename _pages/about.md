@@ -11,7 +11,7 @@ redirect_from:
 I am currently a second-year master's student in the _[School of Cyber Science and Engineering](https://cse.hust.edu.cn/)_ at _[Huazhong University of Science and Technology](https://www.hust.edu.cn/)_, Wuhan, China,
 supervised by [Professor Shengshan Hu](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ&hl=zh-CN&oi=ao) from [TAI group](http://trustai.cse.hust.edu.cn/). Prior to that, I obtained a Bachelor of Engineering degree from Huazhong University of Science and Technology in 2022.
 
-My current research interest focuses on **_trustworthy AI, embodied AI, AIGC, and etc._**. I am always open for any research communication and cooperation, please don't hesitate to contact me if you are interested.
+My current research interest focuses on **_trustworthy AI, embodied AI, AIGC, and etc_**. I am always open for any research communication and cooperation, please don't hesitate to contact me if you are interested.
 Email address: wxl99 at hust.edu.cn
 
 
@@ -49,7 +49,7 @@ Competitions
 <small> Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou  </small>
 
 ***National College Student Information Security Projects Competition (2021) (Third Prize)***  
-<small> **Xianlong Wang**, Junyu Shi, Yiman Hu, Ao Yang  </small>
+<small> **Xianlong Wang**, Ao Yang, Yiman Hu, Junyu Shi  </small>
 
 ***The Mathematical Contest in Modeling (2021) (Honorable Mention)***  
 <small> **Xianlong Wang**, Yiman Hu  </small>
