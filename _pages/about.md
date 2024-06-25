@@ -51,7 +51,7 @@ Competitions
 ***National College Student Information Security Projects Competition (2021) (Third Prize)***  
 <small> **Xianlong Wang**, Ao Yang, Yiman Hu, Junyu Shi  </small>
 
-***The Mathematical Contest in Modeling (2021) (Honorable Mention)***  
+***Mathematical Contest In Modeling (2021) (Honorable Mention)***  
 <small> **Xianlong Wang**, Yiman Hu  </small>
 
 
