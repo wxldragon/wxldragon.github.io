@@ -57,14 +57,14 @@ Competitions
 
 Awards
 ------
-***Scholarship for Postgraduates of Huazhong University of Sci. and Tech. (2023) (Second Prize)***  
-***Excellent Postgraduate Cadre of Huazhong University of Sci. and Tech. (2023)***  
-***Scholarship for Postgraduates of Huazhong University of Sci. and Tech. (2022) (First Prize)***  
-***Outstanding Graduate of Huazhong University of Sci. and Tech. (2022)***  
-***Scholarship for Academic Excellence of Huazhong University of Sci. and Tech. (2021)***  
-***Outstanding Student Cadres of Huazhong University of Sci. and Tech. (2021)***  
-***Self-improvement Scholarship of Huazhong University of Sci. and Tech. (2020)***  
-***Progress in Studies Scholarship of Huazhong University of Sci. and Tech. (2019)***   
+***Scholarship for Postgraduates, Huazhong University of Sci. and Tech. (2023) (Second Prize)***  
+***Excellent Postgraduate Cadre, Huazhong University of Sci. and Tech. (2023)***  
+***Scholarship for Postgraduates, Huazhong University of Sci. and Tech. (2022) (First Prize)***  
+***Outstanding Graduate, Huazhong University of Sci. and Tech. (2022)***  
+***Scholarship for Academic Excellence, Huazhong University of Sci. and Tech. (2021)***  
+***Outstanding Student Cadres, Huazhong University of Sci. and Tech. (2021)***  
+***Scholarship for Self-improvement, Huazhong University of Sci. and Tech. (2020)***  
+***Scholarship for Academic Progress, Huazhong University of Sci. and Tech. (2019)***   
 
 
 
