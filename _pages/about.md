@@ -62,7 +62,7 @@ Awards
 ***Scholarship for Postgraduates of Huazhong University of Sci. and Tech. (2022) (First Prize)***  
 ***Outstanding Graduate of Huazhong University of Sci. and Tech. (2022)***  
 ***Scholarship for Academic Excellence of Huazhong University of Sci. and Tech. (2021)***  
-***Outstanding Student Leader of Huazhong University of Sci. and Tech. (2021)***  
+***Outstanding Student Cadres of Huazhong University of Sci. and Tech. (2021)***  
 ***Self-improvement Scholarship of Huazhong University of Sci. and Tech. (2020)***  
 ***Progress in Studies Scholarship of Huazhong University of Sci. and Tech. (2019)***   
 
