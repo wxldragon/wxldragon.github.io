@@ -45,10 +45,10 @@ Reviewer for MM'24
 
 Competitions
 ------
-***AISC: Physical World Adversarial Face Recognition (2022) (Rank 5/178)***  
+***Face Recognition Security Competition in Artificial Intelligence Security Competition (2022) (Excellence Award)***  
 <small> Haoyu Wang, Yechao Zhang, Xiaogeng Liu, **Xianlong Wang**, Ziqi Zhou  </small>
 
-***National College Student Information Security Projects Competition (2021) (Third Prize)***  
+***National College Student Information Security Competition (2021) (Third Prize)***  
 <small> **Xianlong Wang**, Ao Yang, Yiman Hu, Junyu Shi  </small>
 
 ***Mathematical Contest In Modeling (2021) (Honorable Mention)***  
