@@ -27,7 +27,7 @@ In _Proceedings of the 29th European Symposium on Research in Computer Security 
 <small> **<u>Xianlong Wang</u>**, Minghui Li, Peng Xu, Wei Liu, Leo Yu Zhang, Shengshan Hu, Yanjun Zhang   
 In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_   </small>
 
-***Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness***   
+***Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness in the Physical World***   
 <small> Hangtao Zhang, Shengshan Hu, Yichen Wang, Leo Yu Zhang, Ziqi Zhou, **<u>Xianlong Wang</u>**, Yanjun Zhang, Chao Chen   
 In _Proceedings of the 33rd International Joint Conference on Artificial Intelligence **(IJCAI 2024)**_ </small>
 
