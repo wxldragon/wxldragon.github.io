@@ -21,11 +21,11 @@ Publications
 ------
 ***ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification***   
 <small> **<u>Xianlong Wang</u>**, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin   
-In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_  </small>
+In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_ (Acceptance rate: 86/535=16%)  </small>
 
 ***PointAPA: Towards Availability Poisoning Attacks in 3D Point Clouds***   
 <small> **<u>Xianlong Wang</u>**, Minghui Li, Peng Xu, Wei Liu, Leo Yu Zhang, Shengshan Hu, Yanjun Zhang   
-In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_   </small>
+In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_  (Acceptance rate: 86/535=16%) </small>
 
 ***Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness in the Physical World***   
 <small> Hangtao Zhang, Shengshan Hu, Yichen Wang, Leo Yu Zhang, Ziqi Zhou, **<u>Xianlong Wang</u>**, Yanjun Zhang, Chao Chen   
