@@ -37,6 +37,13 @@ In _Proceedings of the 33rd International Joint Conference on Artificial Intelli
 In _Proceedings of the 31st ACM International Conference on Multimedia **(MM 2023) <font color="color: lightblue;"> (Oral) </font>**_  </small>
 
 
+Pre-prints
+------
+***Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations***
+<small> **<u>Xianlong Wang</u>**, Shengshan Hu, Minghui Li, Zhifei Yu, Ziqi Zhou, Leo Yu Zhang
+arXiv preprint arXiv:2311.18403 **(arXiv 2023)** </small>
+
+
 Services
 ------
 Reviewer for MM'24, ICPR'24 
