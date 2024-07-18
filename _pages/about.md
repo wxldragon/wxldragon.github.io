@@ -39,8 +39,8 @@ In _Proceedings of the 31st ACM International Conference on Multimedia **(MM 202
 
 Pre-prints
 ------
-***Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations***
-<small> **<u>Xianlong Wang</u>**, Shengshan Hu, Minghui Li, Zhifei Yu, Ziqi Zhou, Leo Yu Zhang
+***Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations***  
+<small> **<u>Xianlong Wang</u>**, Shengshan Hu, Minghui Li, Zhifei Yu, Ziqi Zhou, Leo Yu Zhang  
 arXiv preprint arXiv:2311.18403 **(arXiv 2023)** </small>
 
 
