@@ -39,6 +39,12 @@ In _Proceedings of the 31st ACM International Conference on Multimedia **(MM 202
 
 Pre-prints
 ------
+***BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World***  
+<small> Hangtao Zhang, Chenyu Zhu, **<u>Xianlong Wang</u>**, Ziqi Zhou, Shengshan Hu, Leo Yu Zhang  
+arXiv preprint arXiv:2407.20242 **(arXiv 2024)** </small>
+
+
+
 ***Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations***  
 <small> **<u>Xianlong Wang</u>**, Shengshan Hu, Minghui Li, Zhifei Yu, Ziqi Zhou, Leo Yu Zhang  
 arXiv preprint arXiv:2311.18403 **(arXiv 2023)** </small>
