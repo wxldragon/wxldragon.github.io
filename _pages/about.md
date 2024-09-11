@@ -52,7 +52,7 @@ arXiv preprint arXiv:2311.18403 **(arXiv 2023)** </small>
 
 Services
 ------
-Reviewer for MM'24, ICPR'24 
+Reviewer for MM'24, NeurIPS'24 Workshop, ICPR'24, ICLR'25 
 
 
 
