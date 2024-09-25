@@ -19,6 +19,15 @@ Email address: wxl99 at hust.edu.cn
 
 Publications
 ------
+***DarkSAM: Fooling Segment Anything Model to Segment Nothing***   
+<small> Ziqi Zhou, Yufei Song, Minghui Li, Shengshan Hu, **<u>Xianlong Wang</u>**, Leo Yu Zhang, Dezhong Yao, Hai Jin   
+In _Proceedings of the 38th Annual Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ </small>
+
+***Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need***   
+<small> **<u>Xianlong Wang</u>**, Minghui Li, Wei Liu, Hangtao Zhang, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Hai Jin   
+In _Proceedings of the 38th Annual Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ </small>
+
+
 ***ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification***   
 <small> **<u>Xianlong Wang</u>**, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin   
 In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_ (Acceptance rate: 86/535=16%)  </small>
