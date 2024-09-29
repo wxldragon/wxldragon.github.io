@@ -28,7 +28,7 @@ In _Proceedings of the 38th Annual Conference on Neural Information Processing S
 In _Proceedings of the 38th Annual Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ </small>
 
 
-***ECLIPSE: Expunging Clean-label Indiscriminate Poisons via Sparse Diffusion Purification***   
+***ECLIPSE: Expunging Clean-Label Indiscriminate Poisons via Sparse Diffusion Purification***   
 <small> **<u>Xianlong Wang</u>**, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin   
 In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_ (Acceptance rate: 86/535=16%)  </small>
 
