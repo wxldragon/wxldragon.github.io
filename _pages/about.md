@@ -21,11 +21,11 @@ Publications
 ------
 ***DarkSAM: Fooling Segment Anything Model to Segment Nothing***   
 <small> Ziqi Zhou, Yufei Song, Minghui Li, Shengshan Hu, **<u>Xianlong Wang</u>**, Leo Yu Zhang, Dezhong Yao, Hai Jin   
-In _Proceedings of the 38th Annual Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ </small>
+In _Proceedings of the 38th Annual Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ (Acceptance rate=25.8%) </small>
 
 ***Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need***   
 <small> **<u>Xianlong Wang</u>**, Minghui Li, Wei Liu, Hangtao Zhang, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Hai Jin   
-In _Proceedings of the 38th Annual Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ </small>
+In _Proceedings of the 38th Annual Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ (Acceptance rate=25.8%) </small>
 
 
 ***ECLIPSE: Expunging Clean-Label Indiscriminate Poisons via Sparse Diffusion Purification***   
