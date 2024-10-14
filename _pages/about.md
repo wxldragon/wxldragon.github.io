@@ -79,6 +79,7 @@ Competitions
 
 Awards
 ------
+***National Scholarship (2024)***
 ***Scholarship for Postgraduates, Huazhong University of Sci. and Tech. (2023) (Second Prize)***  
 ***Excellent Postgraduate Cadre, Huazhong University of Sci. and Tech. (2023)***  
 ***Scholarship for Postgraduates, Huazhong University of Sci. and Tech. (2022) (First Prize)***  
