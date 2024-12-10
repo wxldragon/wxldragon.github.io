@@ -21,7 +21,7 @@ Publications
 ------
 ***Detecting and Corrupting Convolution-based Unlearnable Examples***  
 <small> Minghui Li, **<u>Xianlong Wang</u>**, Zhifei Yu, Shengshan Hu, Ziqi Zhou, Longling Zhang, Leo Yu Zhang  
-In _Proceedings of the 39th AAAI Conference on Artificial Intelligence **(AAAI 2025)**_ (Acceptance rate=23.4%) </small>l>
+In _Proceedings of the 39th AAAI Conference on Artificial Intelligence **(AAAI 2025)**_ (Acceptance rate=23.4%) </small>
 
 
 ***DarkSAM: Fooling Segment Anything Model to Segment Nothing***   
