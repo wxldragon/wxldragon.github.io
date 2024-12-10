@@ -19,13 +19,18 @@ Email address: wxl99 at hust.edu.cn
 
 Publications
 ------
+***Detecting and Corrupting Convolution-based Unlearnable Examples***  
+<small> Minghui Li, **<u>Xianlong Wang</u>**, Zhifei Yu, Shengshan Hu, Ziqi Zhou, Longling Zhang, Leo Yu Zhang  
+In _Proceedings of the 39th AAAI Conference on Artificial Intelligence **(AAAI 2025)**_ (Acceptance rate=23.4%) </small>l>
+
+
 ***DarkSAM: Fooling Segment Anything Model to Segment Nothing***   
 <small> Ziqi Zhou, Yufei Song, Minghui Li, Shengshan Hu, **<u>Xianlong Wang</u>**, Leo Yu Zhang, Dezhong Yao, Hai Jin   
-In _Proceedings of the 38th Annual Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ (Acceptance rate=25.8%) </small>
+In _Proceedings of the 38th Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ (Acceptance rate=25.8%) </small>
 
 ***Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need***   
 <small> **<u>Xianlong Wang</u>**, Minghui Li, Wei Liu, Hangtao Zhang, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Hai Jin   
-In _Proceedings of the 38th Annual Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ (Acceptance rate=25.8%) </small>
+In _Proceedings of the 38th Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ (Acceptance rate=25.8%) </small>
 
 
 ***ECLIPSE: Expunging Clean-Label Indiscriminate Poisons via Sparse Diffusion Purification***   
@@ -53,10 +58,6 @@ Pre-prints
 arXiv preprint arXiv:2407.20242 **(arXiv 2024)** </small>
 
 
-
-***Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations***  
-<small> **<u>Xianlong Wang</u>**, Shengshan Hu, Minghui Li, Zhifei Yu, Ziqi Zhou, Leo Yu Zhang  
-arXiv preprint arXiv:2311.18403 **(arXiv 2023)** </small>
 
 
 Services
