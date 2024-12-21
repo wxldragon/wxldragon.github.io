@@ -19,8 +19,13 @@ Email address: wxl99 at hust.edu.cn
 
 Publications
 ------
+***PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation***  
+<small> Yufei Song, Ziqi Zhou, Minghui Li, **<u>Xianlong Wang</u>**, Hangtao Zhang, Menghao Deng, Wei Wan, Shengshan Hu, Leo Yu Zhang  
+In _Proceedings of the 2025 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2025)**_ </small>
+
+
 ***Detecting and Corrupting Convolution-based Unlearnable Examples***  
-<small> Minghui Li, **<u>Xianlong Wang</u>**, Zhifei Yu, Shengshan Hu, Ziqi Zhou, Longling Zhang, Leo Yu Zhang  
+<small> Minghui Li, <strong><u>Xianlong Wang</u> <img src="https://img.icons8.com/ios-filled/16/000000/appointment-reminders.png" alt="Corresponding Author" title="Corresponding Author"></strong><sup>*</sup>, Zhifei Yu, Shengshan Hu, Ziqi Zhou, Longling Zhang, Leo Yu Zhang  
 In _Proceedings of the 39th AAAI Conference on Artificial Intelligence **(AAAI 2025)**_ (Acceptance rate=23.4%) </small>
 
 
