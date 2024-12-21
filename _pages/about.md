@@ -25,7 +25,7 @@ In _Proceedings of the 50th IEEE International Conference on Acoustics, Speech a
 
 
 ***Detecting and Corrupting Convolution-based Unlearnable Examples***  
-<small> <strong><u>Minghui Li</u> <sup>*</sup></strong>, <strong><u>Xianlong Wang</u> <sup>*</sup> <img src="https://img.icons8.com/ios-filled/16/000000/email.png" alt="Corresponding Author" title="Corresponding Author"></strong>, Zhifei Yu, Shengshan Hu, Ziqi Zhou, Longling Zhang, Leo Yu Zhang    
+<small> <strong><u>Minghui Li</u> <sup>*</sup></strong>, <strong><u>Xianlong Wang</u> <sup>*</sup></strong>, Zhifei Yu, Shengshan Hu, Ziqi Zhou, Longling Zhang, Leo Yu Zhang    
 In _Proceedings of the 39th AAAI Conference on Artificial Intelligence **(AAAI 2025)**_ (Acceptance rate=23.4%) </small>
 
 
