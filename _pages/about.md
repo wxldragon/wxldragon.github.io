@@ -19,6 +19,12 @@ Email address: wxl99 at hust.edu.cn
 
 Publications
 ------
+
+***BadRobot: Manipulating Embodied LLMs in the Physical World***  
+<small> Hangtao Zhang, Chenyu Zhu, **<u>Xianlong Wang</u>**, Ziqi Zhou, Changgan Yin, Minghui Li, Lulu Xue, Yichen Wang, Shengshan Hu, Aishan Liu, Peijin Guo, Leo Yu Zhang  
+In _Proceedings of the 13th International Conference on Learning Representations **(ICLR 2025)**_ </small>
+
+
 ***PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation***  
 <small> Yufei Song, Ziqi Zhou, Minghui Li, **<u>Xianlong Wang</u>**, Hangtao Zhang, Menghao Deng, Wei Wan, Shengshan Hu, Leo Yu Zhang  
 In _Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2025)**_ </small>
@@ -55,19 +61,10 @@ In _Proceedings of the 33rd International Joint Conference on Artificial Intelli
 <small> Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, Xiaogeng Liu, **<u>Xianlong Wang</u>**, Leo Yu Zhang, Junhui Hou  
 In _Proceedings of the 31st ACM International Conference on Multimedia **(MM 2023) <font color="color: lightblue;"> (Oral) </font>**_ (Acceptance rate=29.3%) </small>
 
-
-Pre-prints
-------
-***BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World***  
-<small> Hangtao Zhang, Chenyu Zhu, **<u>Xianlong Wang</u>**, Ziqi Zhou, Shengshan Hu, Leo Yu Zhang  
-arXiv preprint arXiv:2407.20242 **(arXiv 2024)** </small>
-
-
-
-
+ 
 Services
 ------
-Reviewer for MM'24, NeurIPS'24 Workshop, ICPR'24, ICASSP'25, ICLR'25 
+Reviewer for ACM MM'24, ICPR'24, ICASSP'25, ICLR'25, IJCAI'25, IJCNN'25 
 
 
 
