@@ -64,7 +64,7 @@ In _Proceedings of the 31st ACM International Conference on Multimedia **(MM 202
  
 Services
 ------
-Reviewer for ACM MM'24, ICPR'24, ICASSP'25, ICLR'25, IJCAI'25, IJCNN'25 
+Reviewer for ACM MM'24, ICPR'24, ICASSP'25, IJCNN'25, IJCAI'25, ICLR'25, ICML'25 
 
 
 
