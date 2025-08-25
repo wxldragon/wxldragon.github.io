@@ -8,17 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year master's student in the _[School of Cyber Science and Engineering](https://cse.hust.edu.cn/)_ at _[Huazhong University of Science and Technology](https://www.hust.edu.cn/)_, Wuhan, China,
-supervised by [Professor Shengshan Hu](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ&hl=zh-CN&oi=ao) from [TAI group](http://trustai.cse.hust.edu.cn/). Prior to that, I obtained a Bachelor of Engineering degree from Huazhong University of Science and Technology in 2022.
-
+I am a first-year Ph.D. student in the _[Department of Computer Science](https://www.cs.cityu.edu.hk/)_ at _[City University of Hong Kong](https://www.cityu.edu.hk/)_, Hong Kong, China, supervised by _[Chair Professor Xiaohua JIA](https://www.cs.cityu.edu.hk/~jia/)_. Prior to that, I earned a B.E. degree from _[Huazhong University of Science and Technology](https://www.hust.edu.cn/)_ in June 2022, and later obtained a M.E. degree from _[Huazhong University of Science and Technology](https://www.hust.edu.cn/)_ in June 2025, supervised by [Professor Shengshan Hu](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ&hl=zh-CN&oi=ao) of the [TAI group](http://trustai.cse.hust.edu.cn/). 
 My current research interest focuses on **_trustworthy AI, embodied AI, AIGC, and etc_**. I am always open for any research communication and cooperation, please don't hesitate to contact me if you are interested.
-Email address: wxl99 at hust.edu.cn
+Email address: xianlong.wang at my.cityu.edu.hk
 
 
  
 
-Publications
+Publications (* denotes equal contribution, ✉️ denotes corresponding author)
 ------
+
+***Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need***   
+<small> **<u>Xianlong Wang</u>**, Minghui Li, Wei Liu, Hangtao Zhang, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Hai Jin  
+In _Proceedings of the 38th Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ (Acceptance rate=25.8%) </small>
+
+
+***Detecting and Corrupting Convolution-based Unlearnable Examples***  
+<small> Minghui Li\*, **<u>Xianlong Wang*✉️</u>**, Zhifei Yu, Shengshan Hu, Ziqi Zhou, Longling Zhang, Leo Yu Zhang  
+In _Proceedings of the 39th AAAI Conference on Artificial Intelligence **(AAAI 2025)**_ (Acceptance rate=23.4%) </small>
+
+***ECLIPSE: Expunging Clean-Label Indiscriminate Poisons via Sparse Diffusion Purification***   
+<small> **<u>Xianlong Wang</u>**, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin   
+In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_ (Acceptance rate: 86/535=16%)  </small>
+
+***PointAPA: Towards Availability Poisoning Attacks in 3D Point Clouds***   
+<small> **<u>Xianlong Wang</u>**, Minghui Li, Peng Xu, Wei Liu, Leo Yu Zhang, Shengshan Hu, Yanjun Zhang   
+In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_  (Acceptance rate: 86/535=16%) </small>
+
 
 ***BadRobot: Manipulating Embodied LLMs in the Physical World***  
 <small> Hangtao Zhang, Chenyu Zhu, **<u>Xianlong Wang</u>**, Ziqi Zhou, Changgan Yin, Minghui Li, Lulu Xue, Yichen Wang, Shengshan Hu, Aishan Liu, Peijin Guo, Leo Yu Zhang  
@@ -30,27 +46,12 @@ In _Proceedings of the 13th International Conference on Learning Representations
 In _Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2025)**_ </small>
 
 
-***Detecting and Corrupting Convolution-based Unlearnable Examples***  
-<small> Minghui Li\*, **<u>Xianlong Wang*✉️</u>**, Zhifei Yu, Shengshan Hu, Ziqi Zhou, Longling Zhang, Leo Yu Zhang  
-In _Proceedings of the 39th AAAI Conference on Artificial Intelligence **(AAAI 2025)**_ (Acceptance rate=23.4%) </small>
-
 
 ***DarkSAM: Fooling Segment Anything Model to Segment Nothing***   
-<small> Ziqi Zhou, Yufei Song, Minghui Li, Shengshan Hu, **<u>Xianlong Wang</u>**, Leo Yu Zhang, Dezhong Yao, Hai Jin   
+<small> Ziqi Zhou, Yufei Song, Minghui Li, Shengshan Hu, **<u>Xianlong Wang</u>**, Leo Yu Zhang, Dezhong Yao, Hai Jin 
 In _Proceedings of the 38th Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ (Acceptance rate=25.8%) </small>
 
-***Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need***   
-<small> **<u>Xianlong Wang</u>**, Minghui Li, Wei Liu, Hangtao Zhang, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Hai Jin   
-In _Proceedings of the 38th Conference on Neural Information Processing Systems **(NeurIPS 2024)**_ (Acceptance rate=25.8%) </small>
-
-
-***ECLIPSE: Expunging Clean-Label Indiscriminate Poisons via Sparse Diffusion Purification***   
-<small> **<u>Xianlong Wang</u>**, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Leo Yu Zhang, Peng Xu, Wei Wan, Hai Jin   
-In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_ (Acceptance rate: 86/535=16%)  </small>
-
-***PointAPA: Towards Availability Poisoning Attacks in 3D Point Clouds***   
-<small> **<u>Xianlong Wang</u>**, Minghui Li, Peng Xu, Wei Liu, Leo Yu Zhang, Shengshan Hu, Yanjun Zhang   
-In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_  (Acceptance rate: 86/535=16%) </small>
+ 
 
 ***Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness in the Physical World***   
 <small> Hangtao Zhang, Shengshan Hu, Yichen Wang, Leo Yu Zhang, Ziqi Zhou, **<u>Xianlong Wang</u>**, Yanjun Zhang, Chao Chen   
@@ -83,14 +84,13 @@ Competitions
 Awards
 ------
 ***National Scholarship (2024) (Top 0.2%)***  
-***Scholarship for Postgraduates, Huazhong University of Sci. and Tech. (2023) (Second Prize)***  
-***Excellent Postgraduate Cadre, Huazhong University of Sci. and Tech. (2023)***  
-***Scholarship for Postgraduates, Huazhong University of Sci. and Tech. (2022) (First Prize)***  
+***Outstanding Graduate, Huazhong University of Sci. and Tech. (2025)***  
+***Merit Student, Huazhong University of Sci. and Tech. (2024)***  
+***Scholarship for Scientific and Technological Innovation, Huazhong University of Sci. and Tech. (2024)***  
+***Excellent Postgraduate Cadre, Huazhong University of Sci. and Tech. (2023)***   
 ***Outstanding Graduate, Huazhong University of Sci. and Tech. (2022)***  
 ***Scholarship for Academic Excellence, Huazhong University of Sci. and Tech. (2021)***  
-***Outstanding Student Cadres, Huazhong University of Sci. and Tech. (2021)***  
-***Scholarship for Self-improvement, Huazhong University of Sci. and Tech. (2020)***  
-***Scholarship for Academic Progress, Huazhong University of Sci. and Tech. (2019)***   
+***Outstanding Student Cadre, Huazhong University of Sci. and Tech. (2021)***  
 
 
 
