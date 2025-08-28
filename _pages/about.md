@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the _[Department of Computer Science](https://www.cs.cityu.edu.hk/)_ at _[City University of Hong Kong](https://www.cityu.edu.hk/)_, supervised by _[Chair Professor Xiaohua JIA](https://www.cs.cityu.edu.hk/~jia/)_. Prior to that, I earned a B.E. degree from _[Huazhong University of Science and Technology](https://www.hust.edu.cn/)_ in June 2022, and later obtained a M.E. degree from _[Huazhong University of Science and Technology](https://www.hust.edu.cn/)_ in June 2025, supervised by [Professor Shengshan Hu](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ&hl=zh-CN&oi=ao) of the [TAI group](http://trustai.cse.hust.edu.cn/). 
-My current research interest focuses on **_trustworthy AI, embodied AI, AIGC, and etc_**. I am always open for any research communication and cooperation, please don't hesitate to contact me if you are interested.
+I am a first-year Ph.D. student in the _[Department of Computer Science](https://www.cs.cityu.edu.hk/)_ at _[City University of Hong Kong](https://www.cityu.edu.hk/)_, supervised by _[Chair Professor Xiaohua JIA](https://www.cs.cityu.edu.hk/~jia/)_. Prior to that, I earned a B.E. degree from _[Huazhong University of Science and Technology](https://www.hust.edu.cn/)_ in June 2022, and obtained a M.E. degree from _[Huazhong University of Science and Technology](https://www.hust.edu.cn/)_ in June 2025, supervised by [Professor Shengshan Hu](https://scholar.google.com.hk/citations?user=lkAFwJgAAAAJ&hl=zh-CN&oi=ao) of the [TAI group](http://trustai.cse.hust.edu.cn/). 
+My research interest focuses on **_Trustworthy LLM, Trustworthy Embodied AI, Unlearnable Examples, Backdoor/Poison Learning_**. I am always open for any research communication and cooperation, please don't hesitate to contact me if you are interested.
 Email address: xianlong.wang at my.cityu.edu.hk
 
 
  
 
-Publications (* denotes equal contribution, ✉️ denotes corresponding author)
+Publications (* equal contribution, ✉️ corresponding author)
 ------
 
 ***Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need***   
