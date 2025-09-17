@@ -15,7 +15,7 @@ Email address: xianlong.wang at my.cityu.edu.hk
 
  
 
-Publications (* equal contribution, ✉️ corresponding author)
+Publications (* equal contribution, ✉ corresponding author)
 ------
 
 ***Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need***   
@@ -24,7 +24,7 @@ In _Proceedings of the 38th Conference on Neural Information Processing Systems 
 
 
 ***Detecting and Corrupting Convolution-based Unlearnable Examples***  
-<small> Minghui Li\*, **<u>Xianlong Wang*✉️</u>**, Zhifei Yu, Shengshan Hu, Ziqi Zhou, Longling Zhang, Leo Yu Zhang  
+<small> Minghui Li\*, **<u>Xianlong Wang*✉</u>**, Zhifei Yu, Shengshan Hu, Ziqi Zhou, Longling Zhang, Leo Yu Zhang  
 In _Proceedings of the 39th AAAI Conference on Artificial Intelligence **(AAAI 2025)**_ (Acceptance rate=23.4%) </small>
 
 ***ECLIPSE: Expunging Clean-Label Indiscriminate Poisons via Sparse Diffusion Purification***   
