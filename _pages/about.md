@@ -36,16 +36,16 @@ In _Proceedings of the 29th European Symposium on Research in Computer Security 
 In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_  (Acceptance rate: 86/535=16%) </small>
 
 
-***BadRobot: Manipulating Embodied LLMs in the Physical World***  
+***AdvEDM: Fine-grained Adversarial Attack Against VLM-based Embodied Decision-making Systems***   
+<small> Yichen Wang, Hangtao Zhang, Hewen Pan, Ziqi Zhou, **<u>Xianlong Wang</u>**, Peijin Guo, Lulu Xue, Shengshan Hu, Minghui Li, Leo Yu Zhang  
+In _Proceedings of the 39th Conference on Neural Information Processing Systems **(NeurIPS 2025)**_ (Acceptance rate=24.52%) </small>
+ 
+
+***BadRobot: Jailbreaking Embodied LLM Agents in the Physical World***  
 <small> Hangtao Zhang, Chenyu Zhu, **<u>Xianlong Wang</u>**, Ziqi Zhou, Changgan Yin, Minghui Li, Lulu Xue, Yichen Wang, Shengshan Hu, Aishan Liu, Peijin Guo, Leo Yu Zhang  
 In _Proceedings of the 13th International Conference on Learning Representations **(ICLR 2025)**_ </small>
 
-
-***PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation***  
-<small> Yufei Song, Ziqi Zhou, Minghui Li, **<u>Xianlong Wang</u>**, Hangtao Zhang, Menghao Deng, Wei Wan, Shengshan Hu, Leo Yu Zhang  
-In _Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2025)**_ </small>
-
-
+ 
 
 ***DarkSAM: Fooling Segment Anything Model to Segment Nothing***   
 <small> Ziqi Zhou, Yufei Song, Minghui Li, Shengshan Hu, **<u>Xianlong Wang</u>**, Leo Yu Zhang, Dezhong Yao, Hai Jin  
@@ -62,7 +62,11 @@ In _Proceedings of the 33rd International Joint Conference on Artificial Intelli
 <small> Shengshan Hu, Wei Liu, Minghui Li, Yechao Zhang, Xiaogeng Liu, **<u>Xianlong Wang</u>**, Leo Yu Zhang, Junhui Hou  
 In _Proceedings of the 31st ACM International Conference on Multimedia **(MM 2023) <font color="color: lightblue;"> (Oral) </font>**_ (Acceptance rate=29.3%) </small>
 
- 
+***PB-UAP: Hybrid Universal Adversarial Attack For Image Segmentation***  
+<small> Yufei Song, Ziqi Zhou, Minghui Li, **<u>Xianlong Wang</u>**, Hangtao Zhang, Menghao Deng, Wei Wan, Shengshan Hu, Leo Yu Zhang  
+In _Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2025)**_ </small>
+
+
 Services
 ------
 Reviewer for ICLR'25~26, ICML'25, IJCAI'25, ACM MM'24, ICASSP'25, ICPR'24, IJCNN'25 
