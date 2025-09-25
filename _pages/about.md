@@ -36,7 +36,7 @@ In _Proceedings of the 29th European Symposium on Research in Computer Security 
 In _Proceedings of the 29th European Symposium on Research in Computer Security **(ESORICS 2024)**_  (Acceptance rate: 86/535=16%) </small>
 
 
-***AdvEDM: Fine-grained Adversarial Attack Against VLM-based Embodied Decision-making Systems***   
+***AdvEDM: Fine-grained Adversarial Attack Against VLM-based Embodied Agents***   
 <small> Yichen Wang, Hangtao Zhang, Hewen Pan, Ziqi Zhou, **<u>Xianlong Wang</u>**, Peijin Guo, Lulu Xue, Shengshan Hu, Minghui Li, Leo Yu Zhang  
 In _Proceedings of the 39th Conference on Neural Information Processing Systems **(NeurIPS 2025)**_ (Acceptance rate=24.52%) </small>
  
