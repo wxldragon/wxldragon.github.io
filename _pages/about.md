@@ -67,9 +67,9 @@ In _Proceedings of the 31st ACM International Conference on Multimedia **(MM 202
 In _Proceedings of the 50th IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2025)**_ </small>
 
 
-Services
+Professional Services
 ------
-Reviewer for ICLR'25~26, ICML'25, IJCAI'25, ACM MM'24, ICASSP'25, ICPR'24, IJCNN'25 
+Reviewer for _ICLR, ICML, NeurIPS, IJCAI, ACM MM, ICRA, ICASSP, ICPR, IJCNN_ 
 
 
 
