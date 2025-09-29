@@ -69,7 +69,7 @@ In _Proceedings of the 50th IEEE International Conference on Acoustics, Speech a
 
 Professional Services
 ------
-Reviewer for _NeurIPS, ICML, ICLR, AAAI, IJCAI, ACM MM, ICRA, ICASSP, ICPR, IJCNN_ 
+Program Committee/Reviewer for _NeurIPS, ICML, ICLR, AAAI, IJCAI, ACM MM, ICRA, ICASSP, ICPR, IJCNN_ 
 
 
 
