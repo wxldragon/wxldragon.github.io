@@ -1,31 +1,107 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+<div align="center">
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+# Luka Homepage
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+### A warm, minimal, responsive homepage template for researchers, students, builders, and creators.
 
-# Instructions
+[中文说明](README.zh-CN.md) · [Live Demo](https://wzsyyh.github.io/luka-homepage-template/) · [Use This Template](https://github.com/wzsyyh/luka-homepage-template/generate)
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-c2714f?style=flat-square)](https://wzsyyh.github.io/luka-homepage-template/)
+[![Template Ready](https://img.shields.io/badge/Template-Ready-3d3929?style=flat-square)](https://github.com/wzsyyh/luka-homepage-template/generate)
+[![Stack](https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-e28a67?style=flat-square)](https://github.com/wzsyyh/luka-homepage-template)
+[![License](https://img.shields.io/badge/License-MIT-8c8577?style=flat-square)](./LICENSE.md)
 
-See more info at https://academicpages.github.io/
+</div>
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+`Luka Homepage` is a standalone template version extracted from my own personal homepage. It is designed to feel warm, clean, and academic without adding any build tooling or framework overhead.
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+## Why This Template
 
-# Changelog -- bugfixes and enhancements
+- Minimal but not plain: clean typography, warm colors, and balanced spacing.
+- Academic-ready layout: built for homepage content, not generic portfolio blocks.
+- Static by default: deploy directly to GitHub Pages with zero build steps.
+- Easy to fork: replace a few text blocks and assets, then publish.
+- Mobile-friendly: desktop and phone layouts are already tuned.
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+## What You Get
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+| Section | Included |
+| --- | --- |
+| Personal intro | `About Me`, avatar, email, social links |
+| Academic timeline | `Education`, `Experience` |
+| Showcase | `Projects`, `Publications`, `Awards` |
+| UX details | Dark mode toggle, smooth entrance animation, responsive layout |
+| Replaceable assets | Avatar, institution logo, favicon, CV link |
+
+## Quick Start
+
+### 1. Create your own copy
+
+Use GitHub's [Use This Template](https://github.com/wzsyyh/luka-homepage-template/generate) button, or copy this folder into a new repository.
+
+Suggested repository names:
+
+- `luka-homepage`
+- `luka-homepage-template`
+- `luka-academic-homepage`
+
+### 2. Customize the content
+
+You will mainly edit:
+
+- `index.html` for all main content
+- `assets/css/theme-luka.css` for colors, spacing, and layout
+- `assets/img/avatar.svg` for the profile image
+- `assets/img/institution.svg` for school or lab branding
+
+### 3. Replace your assets
+
+- Avatar: replace `assets/img/avatar.svg` with your own `png`, `jpg`, or `svg`
+- Institution logo: replace `assets/img/institution.svg`
+- Favicon: replace `assets/img/favicon.svg`
+- Resume: update the `Download my CV` link in `index.html`
+
+### 4. Deploy to GitHub Pages
+
+1. Open repository `Settings`
+2. Go to `Pages`
+3. Choose `Deploy from a branch`
+4. Select `main` and `/ (root)`
+5. Save and wait for deployment
+
+## Project Structure
+
+```text
+.
+├── index.html
+├── README.md
+├── README.zh-CN.md
+├── LICENSE.md
+└── assets
+    ├── css
+    │   ├── font_sans_serif.css
+    │   └── theme-luka.css
+    ├── cv
+    ├── img
+    └── js
+        └── scale.fix.js
+```
+
+## Design Notes
+
+- The left sidebar stays top-aligned, matching the original personal homepage layout.
+- The visual language is intentionally warm and understated rather than highly decorative.
+- The template keeps just enough structure for academic use while remaining easy to personalize.
+
+## Attribution
+
+The footer includes two lines by default:
+
+1. Your own site copyright
+2. `Luka Homepage Template by Yuheng Yang`
+
+If you want to preserve template attribution, keep the second line.
+
+## License
+
+This template includes its own `LICENSE.md`, so you can publish it as an independent repository immediately.

@@ -1,2 +1,9 @@
-_site/
+.DS_Store
+Thumbs.db
 
+# Local editor files
+.idea/
+.vscode/
+
+# macOS metadata
+._*
